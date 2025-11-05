@@ -3,25 +3,21 @@
 # -----------------
 pip
 ipykernel
-
 # -----------------
 # Data Processing
 # -----------------
 pandas
 numpy
-
 # -----------------
 # Machine Learning Models
 # -----------------
 scikit-learn
 xgboost
 lightgbm
-
 # -----------------
 # Model Saving & Utilities
 # -----------------
 joblib
-
 # -----------------
 # Visualization (optional for analysis)
 # -----------------
